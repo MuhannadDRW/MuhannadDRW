@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 
 
 <!-- For Links -->
+<!--
 ### Connect with Me :
-<a href="[www.linkedin.com/in/muhannaddarwish](https://www.linkedin.com/in/muhannaddarwish)" target="_blank"><img src="https://img.shields.io/badge/-Muhannad%20Darwish-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[www.linkedin.com/in/muhannaddarwish](https://www.linkedin.com/in/muhannaddarwish)" target="_blank"><img src="https://img.shields.io/badge/-Muhannad%20Darwish-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 
 
 <!-- for tech stuff -->
