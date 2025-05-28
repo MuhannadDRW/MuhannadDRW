@@ -43,12 +43,15 @@ Here are some ideas to get you started:
 
 <!-- for tech stuff -->
 ### 👨‍💻 &nbsp;Tech Skills
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=JavaFX)&nbsp;
+
+![C](https://img.shields.io/badge/-05122A?style=flat&logo=c)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=java-fx)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
 
 
 <!-- img for used languages -->
